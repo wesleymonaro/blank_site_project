@@ -1,0 +1,28 @@
+$font-primary: 'Source Sans Pro', Arial, sans-serif;
+// Overrides
+$grid-gutter-width: 40px !default; 
+$border-radius-base:  4px !default;
+$padding-base-vertical: 14px !default;
+
+$brand-primary: #FCC72C !default;
+$brand-secondary: #1fb5f6 !default; 
+
+$brand-white: #fff;
+$brand-black: #000;
+$brand-lighter: #848484;
+$brand-darker: #5a5a5a;
+$brand-selection-color: $brand-primary;
+$brand-body-color: #fcfcfc;
+$brand-body-bg: #fff;
+$brand-dark-footer: #222831;
+
+
+$input-border-focus: $brand-primary !default;
+$form-group-margin-bottom: 30px !default;
+
+$color-primary: #97d103;
+$color-primary-hover: #6b9206;
+
+$tablet: "(max-width: 768px) and (max-width: 1023px)";
+$mobile: "(max-width: 768px)";
+$desktop: "(min-width: 769px)";
